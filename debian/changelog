@@ -1,5 +1,5 @@
-libnet-amazon-ec2-perl (0.09-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.09-1) unstable; urgency=low
 
   * Initial release (closes: #511256).
 
- -- gregor herrmann <gregoa@debian.org>  Sun, 19 Apr 2009 17:40:30 +0200
+ -- gregor herrmann <gregoa@debian.org>  Sun, 19 Apr 2009 18:07:34 +0200
