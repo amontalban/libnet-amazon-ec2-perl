@@ -1,7 +1,6 @@
 libnet-amazon-ec2-perl (0.09-2) UNRELEASED; urgency=low
 
   * debian/watch: Update to ignore development releases.
-  * debian/watch: Update to ignore development releases.
 
  -- Nathan Handler <nhandler@ubuntu.com>  Sat, 06 Jun 2009 01:36:32 +0000
 
