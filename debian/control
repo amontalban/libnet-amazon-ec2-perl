@@ -4,7 +4,7 @@ Priority: optional
 Build-Depends: debhelper (>= 7)
 Build-Depends-Indep: libdigest-hmac-perl (>= 1.01), libmoose-perl (>= 0.38),
   libparams-validate-perl, liburi-perl, libwww-perl,
-  libxml-simple-perl (>= 2.18), perl (>= 5.6.0-12)
+  libxml-simple-perl (>= 2.18), perl
 Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
 Uploaders: gregor herrmann <gregoa@debian.org>
 Standards-Version: 3.8.1
