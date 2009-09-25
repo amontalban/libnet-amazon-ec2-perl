@@ -8,4 +8,4 @@ TMP     = $(CURDIR)/debian/$(PACKAGE)
 
 override_dh_auto_install:
 	dh_auto_install
-	rm $(TMP)/usr/share/man/man3/Net::Amazon::EC2::*.3pm.gz
+	rm $(TMP)/usr/share/man/man3/Net::Amazon::EC2::*.3pm
