@@ -1,25 +1,11 @@
 #!/usr/bin/make -f
 
-build: build-stamp
-build-stamp:
-	dh build
-	touch $@
+PACKAGE = $(shell dh_listpackages)
+TMP     = $(CURDIR)/debian/$(PACKAGE)
 
-clean:
+%:
 	dh $@
 
-install: install-stamp
-install-stamp: build-stamp
-	dh install
-	# remove broken sub-module manpages
-	$(RM) debian/libnet-amazon-ec2-perl/usr/share/man/man3/Net::Amazon::EC2::*.3pm.gz
-	touch $@
-
-binary-arch:
-
-binary-indep: install
-	dh $@
-
-binary: binary-arch binary-indep
-
-.PHONY: binary binary-arch binary-indep install clean build
+override_dh_auto_install:
+	dh_auto_install
+	rm $(TMP)/usr/share/man/man3/Net::Amazon::EC2::*.3pm.gz
