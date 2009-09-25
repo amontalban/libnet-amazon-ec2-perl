@@ -1,7 +1,7 @@
 Source: libnet-amazon-ec2-perl
 Section: perl
 Priority: optional
-Build-Depends: debhelper (>= 7.0.50)
+Build-Depends: debhelper (>= 7.2.13)
 Build-Depends-Indep: perl, libdigest-hmac-perl, libmoose-perl (>= 0.38),
  libparams-validate-perl, liburi-perl, libwww-perl,
  libxml-simple-perl (>= 2.18)

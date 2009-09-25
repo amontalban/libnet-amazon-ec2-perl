@@ -1,4 +1,4 @@
-libnet-amazon-ec2-perl (0.10-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.10-1) unstable; urgency=low
 
   [ Jonathan Yu ]
   * New upstream release
@@ -6,6 +6,7 @@ libnet-amazon-ec2-perl (0.10-1) UNRELEASED; urgency=low
   * Add myself to Uploaders
   * Standards-Version 3.8.3 (no changes)
   * Use new debhelper rules format
+  * Use debhelper 7.2.13 for --skipdeps (to AutoInstall)
 
   [ Nathan Handler ]
   * debian/watch: Update to ignore development releases.
@@ -15,7 +16,7 @@ libnet-amazon-ec2-perl (0.10-1) UNRELEASED; urgency=low
     perl (>= 5.6.0-{12,16}) with an unversioned dependency on perl (as
     permitted by Debian Policy 3.8.3).
 
- -- Jonathan Yu <jawnsy@cpan.org>  Fri, 25 Sep 2009 05:27:52 -0400
+ -- Jonathan Yu <jawnsy@cpan.org>  Fri, 25 Sep 2009 06:08:45 -0400
 
 libnet-amazon-ec2-perl (0.09-1) unstable; urgency=low
 
