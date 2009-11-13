@@ -1,8 +1,8 @@
-libnet-amazon-ec2-perl (0.11-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.11-1) unstable; urgency=low
 
   * New upstream release
 
- -- Jonathan Yu <jawnsy@cpan.org>  Fri, 13 Nov 2009 05:21:10 -0500
+ -- Jonathan Yu <jawnsy@cpan.org>  Fri, 13 Nov 2009 05:47:27 -0500
 
 libnet-amazon-ec2-perl (0.10-1) unstable; urgency=low
 
