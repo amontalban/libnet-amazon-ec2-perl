@@ -1,25 +1,22 @@
-Format-Specification:
-    http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=196
-Upstream-Maintainer: Jeff Kim <jkim@chosec.com>
-Upstream-Source: http://search.cpan.org/dist/Net-Amazon-EC2/
-Upstream-Name: Net-Amazon-EC2
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=59
+Maintainer: Jeff Kim <jkim@chosec.com>
+Source: http://search.cpan.org/dist/Net-Amazon-EC2/
+Name: Net-Amazon-EC2
 
 Files: *
-Copyright: 2006-2009, Jeff Kim <jkim@chosec.com>
-License-Alias: Perl
-License: Artistic | GPL-1+
-
-Files: debian/*
-Copyright: 2009, gregor herrmann <gregoa@debian.org>
- 2009, Jonathan Yu <jawnsy@cpan.org>
-License: Artistic | GPL-1+
+Copyright: 2006-2010, Jeff Kim <jkim@chosec.com>
+License: Artistic or GPL-1+
 
 Files: inc/Module/*
 Copyright: 2002-2009, Adam Kennedy <adamk@cpan.org>
  2002-2009, Audrey Tang <autrijus@autrijus.org>
  2002-2009, Brian Ingerson <ingy@cpan.org>
-License-Alias: Perl
-License: Artistic | GPL-1+
+License: Artistic or GPL-1+
+
+Files: debian/*
+Copyright: 2009-2010, Jonathan Yu <jawnsy@cpan.org>
+ 2009, gregor herrmann <gregoa@debian.org>
+License: Artistic or GPL-1+
 
 License: Artistic
     This program is free software; you can redistribute it and/or modify
