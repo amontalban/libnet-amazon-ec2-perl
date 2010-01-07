@@ -1,0 +1,31 @@
+Description: fix POD spelling
+Author: Jonathan Yu <jawnsy@cpan.org>
+Origin: vendor
+Forwarded: no
+--- a/lib/Net/Amazon/EC2.pm
++++ b/lib/Net/Amazon/EC2.pm
+@@ -409,7 +409,7 @@
+ 
+ The name of the group to add security rules to.
+ 
+-=item SourceSecurityGroupName (requred when authorizing a user and group together)
++=item SourceSecurityGroupName (required when authorizing a user and group together)
+ 
+ Name of the group to add access for.
+ 
+@@ -3188,7 +3188,7 @@
+ 
+ The name of the group to revoke security rules from.
+ 
+-=item SourceSecurityGroupName (requred when revoking a user and group together)
++=item SourceSecurityGroupName (required when revoking a user and group together)
+ 
+ Name of the group to revoke access from.
+ 
+@@ -3858,4 +3858,4 @@
+ 
+ =head1 SEE ALSO
+ 
+-Amazon EC2 API: L<http://docs.amazonwebservices.com/AWSEC2/latest/APIReference/>
+\ No newline at end of file
++Amazon EC2 API: L<http://docs.amazonwebservices.com/AWSEC2/latest/APIReference/>

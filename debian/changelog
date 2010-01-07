@@ -3,6 +3,7 @@ libnet-amazon-ec2-perl (0.12-1) UNRELEASED; urgency=low
   * New upstream release
   * Refresh copyright to new DEP5 format
   * Update copyright years per upstream
+  * Add a patch to fix POD spelling
 
  -- Jonathan Yu <jawnsy@cpan.org>  Thu, 07 Jan 2010 11:24:41 -0500
 
