@@ -1,9 +1,9 @@
-libnet-amazon-ec2-perl (0.13-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.13-1) unstable; urgency=low
 
   * New upstream release
     + 'progress' now a Maybe[Str] instead of a Str
 
- -- Jonathan Yu <jawnsy@cpan.org>  Thu, 14 Jan 2010 13:58:45 -0500
+ -- Jonathan Yu <jawnsy@cpan.org>  Thu, 14 Jan 2010 14:17:43 -0500
 
 libnet-amazon-ec2-perl (0.12-1) unstable; urgency=low
 
