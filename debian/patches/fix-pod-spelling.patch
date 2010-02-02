@@ -13,7 +13,7 @@ Forwarded: no
  
  Name of the group to add access for.
  
-@@ -3188,7 +3188,7 @@
+@@ -3192,7 +3192,7 @@
  
  The name of the group to revoke security rules from.
  
@@ -22,7 +22,7 @@ Forwarded: no
  
  Name of the group to revoke access from.
  
-@@ -3858,4 +3858,4 @@
+@@ -3862,4 +3862,4 @@
  
  =head1 SEE ALSO
  

@@ -1,8 +1,11 @@
 libnet-amazon-ec2-perl (0.14-1) UNRELEASED; urgency=low
 
   * New upstream release
+  * Standards-Version 3.8.4 (no changes)
+  * Refresh POD spelling patch
+  * Remove MacOS X resource fork using override
 
- -- Jonathan Yu <jawnsy@cpan.org>  Tue, 02 Feb 2010 11:13:04 -0500
+ -- Jonathan Yu <jawnsy@cpan.org>  Tue, 02 Feb 2010 12:00:45 -0500
 
 libnet-amazon-ec2-perl (0.13-1) unstable; urgency=low
 

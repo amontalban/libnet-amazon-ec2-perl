@@ -7,7 +7,7 @@ Build-Depends-Indep: perl, libdigest-hmac-perl, libmoose-perl (>= 0.38),
  libxml-simple-perl (>= 2.18)
 Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
 Uploaders: gregor herrmann <gregoa@debian.org>, Jonathan Yu <jawnsy@cpan.org>
-Standards-Version: 3.8.3
+Standards-Version: 3.8.4
 Homepage: http://search.cpan.org/dist/Net-Amazon-EC2/
 Vcs-Svn: svn://svn.debian.org/pkg-perl/trunk/libnet-amazon-ec2-perl/
 Vcs-Browser: http://svn.debian.org/viewsvn/pkg-perl/trunk/libnet-amazon-ec2-perl/
