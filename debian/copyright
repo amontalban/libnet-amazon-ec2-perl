@@ -1,4 +1,4 @@
-Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=59
+Format-Specification: http://anonscm.debian.org/viewvc/dep/web/deps/dep5.mdwn?view=markup&pathrev=59
 Maintainer: Jeff Kim <jkim@chosec.com>
 Source: http://search.cpan.org/dist/Net-Amazon-EC2/
 Name: Net-Amazon-EC2
