@@ -1,8 +1,5 @@
 libnet-amazon-ec2-perl (0.16-1) UNRELEASED; urgency=low
 
-  [ gregor herrmann ]
-  * debian/rules: switch order of arguments to dh.
-
   [ Ansgar Burchardt ]
   * debian/control: Convert Vcs-* fields to Git.
 
