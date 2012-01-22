@@ -1,10 +1,14 @@
 Description: fix POD spelling
-Author: Jonathan Yu <jawnsy@cpan.org>
 Origin: vendor
-Forwarded: no
+Bug: https://rt.cpan.org/Ticket/Display.html?id=74239
+Forwarded: https://rt.cpan.org/Ticket/Display.html?id=74239
+Author: Jonathan Yu <jawnsy@cpan.org>
+Reviewed-by: gregor herrmann <gregoa@debian.org>
+Last-Update: 2012-01-22
+
 --- a/lib/Net/Amazon/EC2.pm
 +++ b/lib/Net/Amazon/EC2.pm
-@@ -409,7 +409,7 @@
+@@ -420,7 +420,7 @@
  
  The name of the group to add security rules to.
  
@@ -13,7 +17,7 @@ Forwarded: no
  
  Name of the group to add access for.
  
-@@ -3192,7 +3192,7 @@
+@@ -3418,7 +3418,7 @@
  
  The name of the group to revoke security rules from.
  
@@ -22,10 +26,3 @@ Forwarded: no
  
  Name of the group to revoke access from.
  
-@@ -3862,4 +3862,4 @@
- 
- =head1 SEE ALSO
- 
--Amazon EC2 API: L<http://docs.amazonwebservices.com/AWSEC2/latest/APIReference/>
-\ No newline at end of file
-+Amazon EC2 API: L<http://docs.amazonwebservices.com/AWSEC2/latest/APIReference/>
