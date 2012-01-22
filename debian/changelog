@@ -1,4 +1,4 @@
-libnet-amazon-ec2-perl (0.16-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.16-1) unstable; urgency=low
 
   [ Ansgar Burchardt ]
   * debian/control: Convert Vcs-* fields to Git.
@@ -9,8 +9,16 @@ libnet-amazon-ec2-perl (0.16-1) UNRELEASED; urgency=low
 
   [ gregor herrmann ]
   * New upstream release.
+  * Refresh patch.
+  * debian/rules: make file removals verbose, don't remove dropped file
+    anymore.
+  * debian/copyright: update formatting and years of copyright.
+  * Switch to debhelper compatibility level 8.
+  * Bump Standards-Version to 3.9.2 (no further changes).
+  * Remove version from (build) dependencies, already satisfied in
+    oldstable.
 
- -- gregor herrmann <gregoa@debian.org>  Sun, 22 Jan 2012 17:24:21 +0100
+ -- gregor herrmann <gregoa@debian.org>  Sun, 22 Jan 2012 17:42:03 +0100
 
 libnet-amazon-ec2-perl (0.14-1) unstable; urgency=low
 
