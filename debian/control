@@ -2,11 +2,16 @@ Source: libnet-amazon-ec2-perl
 Section: perl
 Priority: optional
 Build-Depends: debhelper (>= 8)
-Build-Depends-Indep: perl, libdigest-hmac-perl, libmoose-perl (>= 0.38),
- libparams-validate-perl, liburi-perl, libwww-perl,
- libxml-simple-perl (>= 2.18)
+Build-Depends-Indep: perl,
+ libdigest-hmac-perl,
+ libmoose-perl,
+ libparams-validate-perl,
+ liburi-perl,
+ libwww-perl,
+ libxml-simple-perl
 Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
-Uploaders: gregor herrmann <gregoa@debian.org>, Jonathan Yu <jawnsy@cpan.org>
+Uploaders: gregor herrmann <gregoa@debian.org>,
+ Jonathan Yu <jawnsy@cpan.org>
 Standards-Version: 3.9.2
 Homepage: http://search.cpan.org/dist/Net-Amazon-EC2/
 Vcs-Git: git://git.debian.org/pkg-perl/packages/libnet-amazon-ec2-perl.git
@@ -14,9 +19,13 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libnet-amazon
 
 Package: libnet-amazon-ec2-perl
 Architecture: all
-Depends: ${misc:Depends}, ${perl:Depends}, libdigest-hmac-perl,
- libmoose-perl (>= 0.38), libparams-validate-perl, liburi-perl,
- libwww-perl, libxml-simple-perl (>= 2.18)
+Depends: ${misc:Depends}, ${perl:Depends},
+ libdigest-hmac-perl,
+ libmoose-perl,
+ libparams-validate-perl,
+ liburi-perl,
+ libwww-perl,
+ libxml-simple-perl
 Description: Perl interface to the Amazon Elastic Compute Cloud (EC2)
  Net::Amazon::EC2 is a Perl interface to Amazon's Elastic Compute Cloud. It
  uses the Query API to communicate with Amazon's Web Services framework. This
