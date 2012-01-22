@@ -1,4 +1,4 @@
-libnet-amazon-ec2-perl (0.14-2) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.16-1) UNRELEASED; urgency=low
 
   [ gregor herrmann ]
   * debian/rules: switch order of arguments to dh.
@@ -10,7 +10,10 @@ libnet-amazon-ec2-perl (0.14-2) UNRELEASED; urgency=low
   * debian/copyright: Replace DEP5 Format-Specification URL from
     svn.debian.org to anonscm.debian.org URL.
 
- -- gregor herrmann <gregoa@debian.org>  Wed, 28 Jul 2010 14:33:01 -0400
+  [ gregor herrmann ]
+  * New upstream release.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 22 Jan 2012 17:24:21 +0100
 
 libnet-amazon-ec2-perl (0.14-1) unstable; urgency=low
 
