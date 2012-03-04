@@ -2,6 +2,7 @@ libnet-amazon-ec2-perl (0.18-1) UNRELEASED; urgency=low
 
   * Imported Upstream version 0.18.
   * Bumped Standards-Version to 3.9.3 (use copyright-format 1.0).
+  * Added myself to Uploaders and copyright.
 
  -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Sun, 04 Mar 2012 20:23:59 +0100
 

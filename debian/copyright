@@ -16,6 +16,7 @@ License: Artistic or GPL-1+
 Files: debian/*
 Copyright: 2009, 2010, Jonathan Yu <jawnsy@cpan.org>
  2009, 2012, gregor herrmann <gregoa@debian.org>
+ 2012, Florian Schlichting <fschlich@zedat.fu-berlin.de>
 License: Artistic or GPL-1+
 
 License: Artistic
