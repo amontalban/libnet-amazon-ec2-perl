@@ -1,10 +1,11 @@
-libnet-amazon-ec2-perl (0.18-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.18-1) unstable; urgency=low
 
   * Imported Upstream version 0.18.
   * Bumped Standards-Version to 3.9.3 (use copyright-format 1.0).
   * Added myself to Uploaders and copyright.
+  * Dropped fix-pod-spelling.patch, applied upstream.
 
- -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Sun, 04 Mar 2012 20:23:59 +0100
+ -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Sun, 04 Mar 2012 20:33:06 +0100
 
 libnet-amazon-ec2-perl (0.16-1) unstable; urgency=low
 
