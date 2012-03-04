@@ -1,7 +1,7 @@
-Format-Specification: http://anonscm.debian.org/viewvc/dep/web/deps/dep5.mdwn?view=markup&pathrev=135
-Maintainer: Jeff Kim <cpan@chosec.com>
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Contact: Jeff Kim <cpan@chosec.com>
 Source: http://search.cpan.org/dist/Net-Amazon-EC2/
-Name: Net-Amazon-EC2
+Upstream-Name: Net-Amazon-EC2
 
 Files: *
 Copyright: 2006-2010, Jeff Kim <cpan@chosec.com>
