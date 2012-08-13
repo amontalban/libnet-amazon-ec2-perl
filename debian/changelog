@@ -1,3 +1,9 @@
+libnet-amazon-ec2-perl (0.20-1) UNRELEASED; urgency=low
+
+  * Imported Upstream version 0.20.
+
+ -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Mon, 13 Aug 2012 21:16:15 +0200
+
 libnet-amazon-ec2-perl (0.18-1) unstable; urgency=low
 
   * Imported Upstream version 0.18.
