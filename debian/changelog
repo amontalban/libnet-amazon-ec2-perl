@@ -1,8 +1,11 @@
-libnet-amazon-ec2-perl (0.20-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.20-1) unstable; urgency=low
 
   * Imported Upstream version 0.20.
+  * Bumped copyright years for included Module::Install.
+  * Added build-dependency on libtest-exception-perl.
+  * Updated API version in package description to 2011-01-01.
 
- -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Mon, 13 Aug 2012 21:16:15 +0200
+ -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Mon, 13 Aug 2012 21:31:43 +0200
 
 libnet-amazon-ec2-perl (0.18-1) unstable; urgency=low
 
