@@ -6,6 +6,7 @@ Build-Depends-Indep: perl,
  libdigest-hmac-perl,
  libmoose-perl,
  libparams-validate-perl,
+ libtest-exception-perl,
  liburi-perl,
  libwww-perl,
  libxml-simple-perl
