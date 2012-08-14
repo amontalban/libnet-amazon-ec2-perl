@@ -4,6 +4,7 @@ libnet-amazon-ec2-perl (0.20-1) unstable; urgency=low
   * Bumped copyright years for included Module::Install.
   * Added build-dependency on libtest-exception-perl.
   * Updated API version in package description to 2011-01-01.
+  * Unset http_proxy during testing, so the expected error is generated.
 
  -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Mon, 13 Aug 2012 21:31:43 +0200
 
