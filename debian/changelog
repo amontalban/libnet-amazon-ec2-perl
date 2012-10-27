@@ -1,8 +1,12 @@
-libnet-amazon-ec2-perl (0.22-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.22-1) unstable; urgency=low
 
   * Imported Upstream version 0.22.
+  * Updated upstream copyright and contact information.
+  * Removed libdigest-hmac-perl from (build-)depends, replaced by Digest::SHA
+    in core.
+  * Bumped standards version to 3.9.4 (no change).
 
- -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Sat, 27 Oct 2012 22:36:31 +0200
+ -- Florian Schlichting <fschlich@zedat.fu-berlin.de>  Sat, 27 Oct 2012 22:46:54 +0200
 
 libnet-amazon-ec2-perl (0.20-1) unstable; urgency=low
 
