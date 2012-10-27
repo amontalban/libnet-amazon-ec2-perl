@@ -1,10 +1,11 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Contact: Jeff Kim <cpan@chosec.com>
+Upstream-Contact: Mark Allen <mallen@cpan.org>
 Source: http://search.cpan.org/dist/Net-Amazon-EC2/
 Upstream-Name: Net-Amazon-EC2
 
 Files: *
 Copyright: 2006-2010, Jeff Kim <cpan@chosec.com>
+ 2012, Mark Allen <mallen@cpan.org>
 License: Artistic or GPL-1+
 
 Files: inc/Module/*
