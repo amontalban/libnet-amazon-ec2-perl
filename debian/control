@@ -14,7 +14,7 @@ Uploaders: gregor herrmann <gregoa@debian.org>,
  Jonathan Yu <jawnsy@cpan.org>,
  Florian Schlichting <fschlich@zedat.fu-berlin.de>
 Standards-Version: 3.9.4
-Homepage: http://search.cpan.org/dist/Net-Amazon-EC2/
+Homepage: https://metacpan.org/release/Net-Amazon-EC2/
 Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libnet-amazon-ec2-perl.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libnet-amazon-ec2-perl.git
 
