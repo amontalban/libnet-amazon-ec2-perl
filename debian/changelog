@@ -1,4 +1,4 @@
-libnet-amazon-ec2-perl (0.23-1) UNRELEASED; urgency=low
+libnet-amazon-ec2-perl (0.23-1) unstable; urgency=low
 
   [ Salvatore Bonaccorso ]
   * Change Vcs-Git to canonical URI (git://anonscm.debian.org)
@@ -6,8 +6,9 @@ libnet-amazon-ec2-perl (0.23-1) UNRELEASED; urgency=low
 
   [ gregor herrmann ]
   * New upstream release.
+  * debian/copyright: update years of packaging copyright.
 
- -- gregor herrmann <gregoa@debian.org>  Mon, 18 Feb 2013 17:53:33 +0100
+ -- gregor herrmann <gregoa@debian.org>  Mon, 18 Feb 2013 17:58:59 +0100
 
 libnet-amazon-ec2-perl (0.22-1) unstable; urgency=low
 
