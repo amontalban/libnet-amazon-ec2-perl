@@ -13,7 +13,7 @@ Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
 Uploaders: gregor herrmann <gregoa@debian.org>,
  Jonathan Yu <jawnsy@cpan.org>,
  Florian Schlichting <fsfs@debian.org>
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Homepage: https://metacpan.org/release/Net-Amazon-EC2/
 Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libnet-amazon-ec2-perl.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libnet-amazon-ec2-perl.git
