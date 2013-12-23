@@ -1,8 +1,11 @@
-libnet-amazon-ec2-perl (0.24-1) UNRELEASED; urgency=medium
+libnet-amazon-ec2-perl (0.24-1) unstable; urgency=medium
 
   * Import Upstream version 0.24
+  * Email change: Florian Schlichting -> fsfs@debian.org
+  * Bump years of packaging copyright
+  * Declare compliance with Debian Policy 3.9.5
 
- -- Florian Schlichting <fsfs@debian.org>  Tue, 24 Dec 2013 00:30:16 +0100
+ -- Florian Schlichting <fsfs@debian.org>  Tue, 24 Dec 2013 00:39:45 +0100
 
 libnet-amazon-ec2-perl (0.23-1) unstable; urgency=low
 
