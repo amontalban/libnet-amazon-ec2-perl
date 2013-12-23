@@ -12,7 +12,7 @@ Build-Depends-Indep: perl,
 Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
 Uploaders: gregor herrmann <gregoa@debian.org>,
  Jonathan Yu <jawnsy@cpan.org>,
- Florian Schlichting <fschlich@zedat.fu-berlin.de>
+ Florian Schlichting <fsfs@debian.org>
 Standards-Version: 3.9.4
 Homepage: https://metacpan.org/release/Net-Amazon-EC2/
 Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libnet-amazon-ec2-perl.git
