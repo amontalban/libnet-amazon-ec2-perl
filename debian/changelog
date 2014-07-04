@@ -1,9 +1,10 @@
-libnet-amazon-ec2-perl (0.25-1) UNRELEASED; urgency=medium
+libnet-amazon-ec2-perl (0.25-1) unstable; urgency=medium
 
-  * Strip trailing slash from metacpan URLs.
   * New upstream release.
+  * Strip trailing slash from metacpan URLs.
+  * Update years of packaging copyright.
 
- -- gregor herrmann <gregoa@debian.org>  Fri, 04 Jul 2014 21:29:27 +0200
+ -- gregor herrmann <gregoa@debian.org>  Fri, 04 Jul 2014 21:33:37 +0200
 
 libnet-amazon-ec2-perl (0.24-1) unstable; urgency=medium
 
