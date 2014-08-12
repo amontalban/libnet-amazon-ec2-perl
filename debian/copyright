@@ -8,6 +8,14 @@ Copyright: 2006-2010, Jeff Kim <cpan@chosec.com>
  2012, Mark Allen <mallen@cpan.org>
 License: Artistic or GPL-1+
 
+Files: lib/Net/Amazon/EC2/Events.pm
+ lib/Net/Amazon/EC2/SystemStatus.pm
+ lib/Net/Amazon/EC2/Details.pm
+ lib/Net/Amazon/EC2/InstanceStatuses.pm
+ lib/Net/Amazon/EC2/InstanceStatus.pm
+Copyright: 2014, Matt West
+License: Artistic or GPL-1+
+
 Files: inc/Module/*
 Copyright: 2002-2012, Adam Kennedy <adamk@cpan.org>
  2002-2012, Audrey Tang <autrijus@autrijus.org>
