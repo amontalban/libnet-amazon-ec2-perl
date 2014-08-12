@@ -1,8 +1,10 @@
-libnet-amazon-ec2-perl (0.29-1) UNRELEASED; urgency=medium
+libnet-amazon-ec2-perl (0.29-1) unstable; urgency=medium
 
   * New upstream release.
+  * Add copyright notice for new files.
+  * Update mentioned EC2 Query API version in long description.
 
- -- gregor herrmann <gregoa@debian.org>  Tue, 12 Aug 2014 19:04:53 +0200
+ -- gregor herrmann <gregoa@debian.org>  Tue, 12 Aug 2014 19:11:49 +0200
 
 libnet-amazon-ec2-perl (0.27-1) unstable; urgency=medium
 
