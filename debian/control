@@ -14,7 +14,7 @@ Build-Depends-Indep: perl,
                      libwww-perl,
                      libxml-simple-perl
 Standards-Version: 3.9.5
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libnet-amazon-ec2-perl.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-perl/packages/libnet-amazon-ec2-perl.git
 Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libnet-amazon-ec2-perl.git
 Homepage: https://metacpan.org/release/Net-Amazon-EC2
 
