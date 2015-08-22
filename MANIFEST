@@ -24,6 +24,7 @@ lib/Net/Amazon/EC2/DescribeImageAttribute.pm
 lib/Net/Amazon/EC2/DescribeImagesResponse.pm
 lib/Net/Amazon/EC2/DescribeInstanceAttributeResponse.pm
 lib/Net/Amazon/EC2/DescribeKeyPairsResponse.pm
+lib/Net/Amazon/EC2/DescribeSubnetResponse.pm
 lib/Net/Amazon/EC2/DescribeTags.pm
 lib/Net/Amazon/EC2/Details.pm
 lib/Net/Amazon/EC2/EbsBlockDevice.pm
@@ -44,6 +45,7 @@ lib/Net/Amazon/EC2/KeyPair.pm
 lib/Net/Amazon/EC2/LaunchPermission.pm
 lib/Net/Amazon/EC2/LaunchPermissionOperation.pm
 lib/Net/Amazon/EC2/MonitoredInstance.pm
+lib/Net/Amazon/EC2/NetworkInterfaceSet.pm
 lib/Net/Amazon/EC2/PlacementResponse.pm
 lib/Net/Amazon/EC2/ProductCode.pm
 lib/Net/Amazon/EC2/ProductInstanceResponse.pm
