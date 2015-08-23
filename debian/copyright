@@ -16,6 +16,10 @@ Files: lib/Net/Amazon/EC2/Events.pm
 Copyright: 2014, Matt West
 License: Artistic or GPL-1+
 
+Files: lib/Net/Amazon/EC2/DescribeSubnetResponse.pm
+Copyright: 2014, Jonas Courteau <jonas.courteau@hootsuite.com>
+License: Artistic or GPL-1+
+
 Files: inc/Module/*
 Copyright: 2002-2012, Adam Kennedy <adamk@cpan.org>
  2002-2012, Audrey Tang <autrijus@autrijus.org>
@@ -25,7 +29,7 @@ License: Artistic or GPL-1+
 Files: debian/*
 Copyright: 2009, 2010, Jonathan Yu <jawnsy@cpan.org>
  2009-2014, gregor herrmann <gregoa@debian.org>
- 2012-2013, Florian Schlichting <fsfs@debian.org>
+ 2012-2015, Florian Schlichting <fsfs@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic
