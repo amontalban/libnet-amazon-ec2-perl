@@ -1,4 +1,4 @@
-libnet-amazon-ec2-perl (0.30-1) UNRELEASED; urgency=medium
+libnet-amazon-ec2-perl (0.30-1) unstable; urgency=medium
 
   [ Salvatore Bonaccorso ]
   * Update Vcs-Browser URL to cgit web frontend
@@ -6,8 +6,11 @@ libnet-amazon-ec2-perl (0.30-1) UNRELEASED; urgency=medium
   [ Florian Schlichting ]
   * Add debian/upstream/metadata
   * Import upstream version 0.30
+  * Update d/copyright, adding a paragraph for Jonas Courteau
+  * Declare compliance with Debian Policy 3.9.6
+  * Mark package autopkgtest-able
 
- -- Florian Schlichting <fsfs@debian.org>  Sat, 22 Aug 2015 15:04:47 +0200
+ -- Florian Schlichting <fsfs@debian.org>  Sun, 23 Aug 2015 14:45:22 +0200
 
 libnet-amazon-ec2-perl (0.29-1) unstable; urgency=medium
 
