@@ -11,6 +11,7 @@ inc/Module/Install/Metadata.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 lib/Net/Amazon/EC2.pm
+lib/Net/Amazon/EC2.pm.orig
 lib/Net/Amazon/EC2/Attachment.pm
 lib/Net/Amazon/EC2/AvailabilityZone.pm
 lib/Net/Amazon/EC2/AvailabilityZoneMessage.pm
@@ -71,3 +72,4 @@ t/00_use.t
 t/01_init.t
 t/02_live.t
 t/03_failing_calls.t
+t/04_live_v4.t
