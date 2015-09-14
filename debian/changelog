@@ -1,3 +1,9 @@
+libnet-amazon-ec2-perl (0.31-1) UNRELEASED; urgency=medium
+
+  * Import upstream version 0.31
+
+ -- Florian Schlichting <fsfs@debian.org>  Mon, 14 Sep 2015 23:34:44 +0200
+
 libnet-amazon-ec2-perl (0.30-1) unstable; urgency=medium
 
   [ Salvatore Bonaccorso ]
